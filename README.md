@@ -1,5 +1,5 @@
 # firewall-neo
-All-In-One firewall management system. Currently tested on Fedora/RHEL9/Debian 13. In the process of testing other distros. In theory, it should work under other distros that utilize bash as the shell.
+All-In-One firewall management system. Currently tested on Fedora/RHEL9/Debian 13/Ubuntu Server 24.04 LTS. In the process of testing other distros. In theory, it should work under other distros that utilize bash as the shell.
 To Run It:
   1. System-Wide (Any User with Sudo access):
   
