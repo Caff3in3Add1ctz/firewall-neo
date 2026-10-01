@@ -4,7 +4,7 @@ To Run It:
   1. System-Wide (Any User with Sudo access):
   
     a. Copy the three scripts to /usr/local/bin:
-         sudo cp firewall-neo.sh firewall-neo-create.sh firewall-neo-delete.sh /usr/local/bin/
+         sudo cp firewall-neo*.sh /usr/local/bin/
   
     b. Set owner and permissions:
          sudo chown root:wheel /usr/local/bin/firewall-neo*.sh
