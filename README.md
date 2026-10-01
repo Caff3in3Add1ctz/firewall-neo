@@ -23,4 +23,5 @@ To Run It:
          ln -s /usr/local/bin/firewall-neo.sh /usr/local/bin/firewall
   
   2. Local user Mode (requires absolute path-name to run, without sym. links)
-     a. {fill in later}
+
+    a. "Fill in later."
